@@ -1,0 +1,2 @@
+# Invert-Pendulum-Base-On-Dynamics-Derivation
+利用Mathematica建立一阶和二阶倒立摆小车系统的动力学模型，并且求解出该系统的空间状态方程，将该方程将在后续用于matlab的一阶和二阶倒立摆仿真模型中。此外该文件还包含有直流电机忽略反电动势的情况下，输出力与电压的微分方程。
